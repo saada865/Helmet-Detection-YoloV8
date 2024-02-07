@@ -17,10 +17,12 @@ The bounded box of Pascal VOC is,
 (xmin, xmax, ymin, ymax) => after conversion (x, y, h, w)
 ```
 ## Training
-The training of the model can be done rather swiftly the code is provided in the notebook folder,
-and inference can be taken from the same file as well.
+The training of the model can be done rather swiftly the code is provided in the Notebooks/helmet-detection-training.ipynb.
 
-Sample code
+## Inference
+The inference can be taken from the same file Notebooks/helmet-detection-training.ipynb.
+
+## Sample code
 ``` 
 images_path = sorted([i for i in Path(root_images_path).glob("*.png")])
 ```
