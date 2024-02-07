@@ -16,6 +16,9 @@ The bounded box of Pascal VOC is,
 ```
 (xmin, xmax, ymin, ymax) => after conversion (x, y, h, w)
 ```
+## Training
+The training of the model can be done rather swiftly the code is provided in the notebook folder,
+and inference can be taken from the same file as well.
 
 Sample code
 ``` 
