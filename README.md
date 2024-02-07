@@ -1,4 +1,4 @@
-# This is a practice project I did at (Algoryc).
+# This is a Computer Vision Project I did at (Algoryc) for my practice.
 
 - This project entails helmet detection in images.
 - For this purpose, the model has been trained on a custom dataset and YoloV8.
