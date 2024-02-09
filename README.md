@@ -24,7 +24,8 @@ The training of the model can be done rather swiftly the code is provided in the
 ## Inference
 The inference can be taken from the same file Notebooks/helmet-detection-training.ipynb.
 
-## To test the model on the test dataset add this line at the end of the notebook.
+## To test the model
+To test the model on the test dataset add this line at the end of the notebook.
 ```
 !yolo task=detect mode=val split=test model=/content/runs/detect/train/weights/best.pt data=/content/drive/MyDrive/helmet_dataset_2/helmet-dataset.v1i.yolov8/data.yaml
 ```
