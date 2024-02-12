@@ -42,5 +42,8 @@ The path of the target object can also be tracked for this purpose YoloV8 has in
 
 ### Tracking algorithms
 There are 2 primary algorithms, I have implemented both,
-- Bytetrack
-- BoTSort
+- Bytetrack (9-11 FPS)
+- BoTSort (12-13 FPS)
+
+### FPS Performance
+The FPS performance depends on many factors, the algorithm and hardware are of prime importance. I ran both algorithms on my M2 Silicon Macbook Pro (Performance will vary according to system).
