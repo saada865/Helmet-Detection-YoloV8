@@ -47,3 +47,5 @@ There are 2 primary algorithms, I have implemented both,
 
 ### FPS Performance
 The FPS performance depends on many factors, the algorithm and hardware are of prime importance. I ran both algorithms on my M2 Silicon Macbook Pro (Performance will vary according to system).
+<img width="952" alt="Screenshot 2024-02-12 at 4 08 02 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/eb27b4f5-9b4a-4211-8c6c-5f00b649d114"><img width="428" alt="Screenshot 2024-02-12 at 4 08 26 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/b341b41a-cd76-4033-8e80-165639da1893">
+
