@@ -43,5 +43,5 @@ The path of the target object can also be tracked for this purpose YoloV8 has in
 ### Tracking algorithms
 There are 2 primary algorithms,
 - Bytetrack
-- BoTSort
+- BoTSort.
 I have implemented both.
