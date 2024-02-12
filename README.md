@@ -46,7 +46,11 @@ There are 2 primary algorithms, I have implemented both,
 - BoTSort (12-13 FPS)
 
 ### FPS Performance
-The FPS performance depends on many factors, the algorithm and hardware are of prime importance. I ran both algorithms on my M2 Silicon Macbook Pro (Performance will vary according to system).<img width="428" alt="Screenshot 2024-02-12 at 4 08 26 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/b341b41a-cd76-4033-8e80-165639da1893">
+The FPS performance depends on many factors, the algorithm and hardware are of prime importance. I ran both algorithms on my M2 Silicon Macbook Pro (Performance will vary according to system).
+#### BotSort
+<img width="428" alt="Screenshot 2024-02-12 at 4 08 26 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/b341b41a-cd76-4033-8e80-165639da1893">
+
+#### Bytetrack
 <img width="430" alt="Screenshot 2024-02-12 at 4 10 24 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/f1adc4be-0064-4cd5-953b-f313aebda0f9">
 
 
