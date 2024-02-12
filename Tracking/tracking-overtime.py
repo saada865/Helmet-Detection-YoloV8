@@ -7,7 +7,7 @@ from ultralytics import YOLO
 
 model = YOLO('/Users/saadahmadmalik/Downloads/best-50epochs.pt')
 
-video_path = "/Users/saadahmadmalik/Downloads/pexels-pavel-danilyuk-7817205 (1080p).mp4"
+video_path = "/Users/saadahmadmalik/Downloads/production_id_5198946 (2160p).mp4"
 cap = cv2.VideoCapture(video_path)
 
 track_history = defaultdict(lambda: [])
@@ -27,8 +27,8 @@ while cap.isOpened():
             x, y, w, h = box
             track = track_history[track_id]
             track.append((float(x), float(y)))
-            if len(track) > 30:
-                track.pop(0)
+            # if len(track) > 90:
+            #     track.pop(0)
 
             points = np.hstack(track).astype(np.int32).reshape((-1, 1, 2))
             cv2.polylines(annotated_frame, [points], isClosed=False, color=(230, 230, 230), thickness=10)
