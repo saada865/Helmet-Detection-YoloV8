@@ -41,7 +41,6 @@ Object live tracking can also be done for that see the code inside the Tracking 
 The path of the target object can also be tracked for this purpose YoloV8 has inbuilt functionality. See Tracking/tracking-overtime.py
 
 ### Tracking algorithms
-There are 2 primary algorithms,
+There are 2 primary algorithms, I have implemented both,
 - Bytetrack
-- BoTSort.
-I have implemented both.
+- BoTSort
