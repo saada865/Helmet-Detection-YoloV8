@@ -33,3 +33,15 @@ To test the model on the test dataset add this line at the end of the notebook.
 ```
 !yolo task=detect mode=val split=test model=/content/runs/detect/train/weights/best.pt data=/content/drive/MyDrive/helmet_dataset_2/helmet-dataset.v1i.yolov8/data.yaml
 ```
+
+## Tracking
+Object live tracking can also be done for that see the code inside the Tracking folder.
+
+### Path Tracking
+The path of the target object can also be tracked for this purpose YoloV8 has inbuilt functionality. See Tracking/tracking-overtime.py
+
+### Tracking algorithms
+There are 2 primary algorithms,
+- Bytetrack
+- BoTSort
+I have implemented both.
