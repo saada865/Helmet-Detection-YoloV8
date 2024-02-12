@@ -53,4 +53,8 @@ The FPS performance depends on many factors, the algorithm and hardware are of p
 #### Bytetrack
 <img width="430" alt="Screenshot 2024-02-12 at 4 10 24 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/f1adc4be-0064-4cd5-953b-f313aebda0f9">
 
+### Youtube Tracking 
+Implementation for live Youtube tracking is available inside the Tracking/youtube-tracking.py.
+<img width="958" alt="Screenshot 2024-02-12 at 4 32 40 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/4146cd34-8e2c-4631-bd99-8a93fbaef60b">
+
 
