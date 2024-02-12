@@ -55,6 +55,9 @@ The FPS performance depends on many factors, the algorithm and hardware are of p
 
 ### Youtube Tracking 
 Implementation for live Youtube tracking is available inside the Tracking/youtube-tracking.py.
+### Base YoloV8 Model
 <img width="958" alt="Screenshot 2024-02-12 at 4 32 40 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/4146cd34-8e2c-4631-bd99-8a93fbaef60b">
 
+### Custom Model
+<img width="957" alt="Screenshot 2024-02-12 at 4 35 30 PM" src="https://github.com/saada865/helmet-detection-yoloV8/assets/80025562/6006a541-1fa3-486f-8aab-21e9e97144f9">
 
